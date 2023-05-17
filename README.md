@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fun1ty&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=fun1ty&show_icons=true">
- <img src="http://mazandi.herokuapp.com/api?handle={fun1ty}&theme=warm"/>
