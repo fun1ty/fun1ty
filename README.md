@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **fun1ty/fun1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&width=500&height=100&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fun1ty&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=fun1ty&show_icons=true">
