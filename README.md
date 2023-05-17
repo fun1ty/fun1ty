@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fun1ty&layout=compact)](https://github.com/fun1ty/github-readme-stats)
 </a>
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![MiRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fun1ty)](https://github.com/fun1ty/github-readme-stats)
 </a>
 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
