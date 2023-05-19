@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3>Environment</h3> 
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=2156F0">  </span>
 <h3>Config</h3> 
-<img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0">
+<span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=Spring%20Boot&logoColor=2156F0"> </span>
 <h3>Development</h3>
 <span><img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=2156F0"></span><span><img src="https://img.shields.io/badge/oracle-white?style=for-the-badge&logo=oracle&logoColor=2156F0"></span><span><img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=2156F0"></span>
 <h3>Communication</h3>
