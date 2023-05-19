@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<span><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"></span>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fun1ty&layout=compact)](https://github.com/fun1ty/github-readme-stats)
 </a>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <h2>Technology Stacks🗽</h2>
 <h3>Environment</h3> 
-<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=2156F0">  </span>
+<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/IntelliJ%20IDEA-white?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=2156F0"></span><span><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=2156F0">  </span>
 <h3>Config</h3> 
 <span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=Spring%20Boot&logoColor=2156F0"> </span>
 <h3>Development</h3>
