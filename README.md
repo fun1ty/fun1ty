@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h3>Config</h3> 
 <span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"> 
 <h3>Development</h3>
-<span><img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=2156F0"> </span> </span><span><img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=2156F0"></span><span><img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=2156F0">
-  <span><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=2156F0"></span> </span><span><img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=2156F0"></span><span><img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=2156F0">
+  
 <h3>Communication</h3>
 <span><img src="https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=2156F0"> </span>
