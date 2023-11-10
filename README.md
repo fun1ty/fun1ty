@@ -36,10 +36,12 @@ SQL, Google Analytics
 <h3>Environment</h3> 
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=2156F0"> </span><span></span><span><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=2156F0">  </span>
 <h3>Config</h3> 
-<span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"> 
+<span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite&logoColor=2156F0"></span>
 <h3>Front-End</h3>
 <span><img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=2156F0"></span> 
 <span><img src="https://img.shields.io/badge/styledcomponents-white?style=for-the-badge&logo=styledcomponents&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=2156F0"></span>
 
 <h3>Back-End</h3>
 <span><img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=2156F0"></span>
@@ -48,7 +50,11 @@ SQL, Google Analytics
 <span><img src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=2156F0"></span>
 <span><img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=2156F0"></span>
 
-
+<h3>DevOps</h3>
+<span><img src="https://img.shields.io/badge/amazonec2-white?style=for-the-badge&logo=amazonec2&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/amazonrds-white?style=for-the-badge&logo=amazonrds&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/amazons3-white?style=for-the-badge&logo=amazons3&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=2156F0"></span>
   
 <h3>Communication</h3>
 <span><img src="https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=2156F0"> </span>
