@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
 [![MiRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fun1ty)](https://github.com/fun1ty/github-readme-stats)
 </a>
+
+<h3>Data</h3>
+SQL, Google Analytics
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <h2>Technology Stacks🗽</h2>
@@ -34,8 +37,18 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=2156F0"> </span><span></span><span><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=2156F0">  </span>
 <h3>Config</h3> 
 <span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"> 
-<h3>Development</h3>
-<span><img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=2156F0"></span> </span><span><img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=2156F0"></span><span><img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=2156F0">
+<h3>Front-End</h3>
+<span><img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=2156F0"></span> 
+<span><img src="https://img.shields.io/badge/styledcomponents-white?style=for-the-badge&logo=styledcomponents&logoColor=2156F0"></span>
+
+<h3>Back-End</h3>
+<span><img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/sequelize-white?style=for-the-badge&logo=sequelize&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=2156F0"></span>
+<span><img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=2156F0"></span>
+
+
   
 <h3>Communication</h3>
 <span><img src="https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=2156F0"> </span>
