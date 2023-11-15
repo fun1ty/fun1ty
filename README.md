@@ -36,8 +36,8 @@ SQL, Google Analytics
 <h2>Technology Stacks🗽</h2>
 <h3>Environment</h3> 
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-2156F0?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> 
-</span><span></span><span><img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"> 
-</span><span><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></span>
+</span><span></span><span><img src="https://img.shields.io/badge/git-2156F0?style=for-the-badge&logo=git&logoColor=white"> 
+</span><span><img src="https://img.shields.io/badge/github-2156F0?style=for-the-badge&logo=github&logoColor=white"></span>
 <h3>Config</h3> 
 <span><img src="https://img.shields.io/badge/npm-2156F0?style=for-the-badge&logo=npm&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=white"></span>
