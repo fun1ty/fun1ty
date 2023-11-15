@@ -64,3 +64,6 @@ SQL, Google Analytics
 </span><span><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"> 
 </span><span><img src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=white"> 
 </span><span><img src="https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=white"></span>
+
+<h3>Data</h3>
+<span><img src="https://img.shields.io/badge/googleanalytics-black?style=for-the-badge&logo=slack&logoColor=white"> 
