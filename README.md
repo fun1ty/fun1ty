@@ -67,3 +67,14 @@ SQL, Google Analytics
 
 <h3>Data</h3>
 <span><img src="https://img.shields.io/badge/googleanalytics-black?style=for-the-badge&logo=slack&logoColor=white"> 
+<br/>
+<br/>
+  
+<a href="https://github.com/fun1ty/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fun1ty&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fun1ty&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
