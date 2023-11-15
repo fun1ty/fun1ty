@@ -34,7 +34,7 @@ SQL, Google Analytics
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <h2>Technology Stacks🗽</h2>
 <h3>Environment</h3> 
-<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=2156F0"> </span><span></span><span><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=2156F0"> </span><span><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=2156F0">  </span>
+<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-2156F0?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> </span><span></span><span><img src="https://img.shields.io/badge/git-2156F0?style=for-the-badge&logo=git&logoColor=white"> </span><span><img src="https://img.shields.io/badge/github-2156F0?style=for-the-badge&logo=github&logoColor=white">  </span>
 <h3>Config</h3> 
 <span><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=2156F0"></span>
 <span><img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite&logoColor=2156F0"></span>
