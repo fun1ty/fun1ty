@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 [![MiRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fun1ty)](https://github.com/fun1ty/github-readme-stats)
 </a>
 
-<h3>Data</h3>
-SQL, Google Analytics
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <h2>Technology Stacks🗽</h2>
@@ -60,10 +58,11 @@ SQL, Google Analytics
 <span><img src="https://img.shields.io/badge/vercel-2156F0?style=for-the-badge&logo=vercel&logoColor=white"></span>
   
 <h3>Communication</h3>
-<span><img src="https://img.shields.io/badge/slack-black?style=for-the-badge&logo=slack&logoColor=white"> 
-</span><span><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"> 
-</span><span><img src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=white"> 
-</span><span><img src="https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/slack-black?style=for-the-badge&logo=slack&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white"></span>
 
 <h3>Data</h3>
 <span><img src="https://img.shields.io/badge/googleanalytics-black?style=for-the-badge&logo=slack&logoColor=white"> 
