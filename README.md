@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white"> 자바스크립트
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-white?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=2156F0"> 인텔리제이
 </span><span><img src="https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=Spring%20Boot&logoColor=2156F0"> </span>자바스프링
+<span><img src="https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase&logoColor=white"></span> 수퍼베이스
 <a href="https://github.com/anuraghazra/github-readme-stats">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fun1ty&layout=compact)](https://github.com/fun1ty/github-readme-stats)
 </a>
@@ -49,7 +50,6 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase&logoColor=white"></span>
 
 <h3>DevOps</h3>
 <span><img src="https://img.shields.io/badge/amazonec2-2156F0?style=for-the-badge&logo=amazonec2&logoColor=white"></span>
