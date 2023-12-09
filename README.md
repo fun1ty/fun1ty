@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <h2>Technology Stacks🗽</h2>
+
+*※ 파란색은 주요 스택입니다.*
 <h3>Environment</h3> 
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-2156F0?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> 
 </span><span></span><span><img src="https://img.shields.io/badge/git-2156F0?style=for-the-badge&logo=git&logoColor=white"> 
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/npm-2156F0?style=for-the-badge&logo=npm&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=white"></span>
 <h3>Front-End</h3>
+<span><img src="https://img.shields.io/badge/next.js-2156F0?style=for-the-badge&logo=next.js&logoColor=white">
+  <span><img src="https://img.shields.io/badge/tailwindcss-2156F0?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </span><span><img src="https://img.shields.io/badge/react-2156F0?style=for-the-badge&logo=react&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/styledcomponents-2156F0?style=for-the-badge&logo=styledcomponents&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/redux-2156F0?style=for-the-badge&logo=redux&logoColor=white"></span>
