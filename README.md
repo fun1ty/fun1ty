@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-white?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=2156F0"> 인텔리제이
 </span><span><img src="https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=Spring%20Boot&logoColor=2156F0"> </span>자바스프링
 <span><img src="https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase&logoColor=white"></span> 수퍼베이스
+<span><img src="https://img.shields.io/badge/reactquery-FFF?style=flat&logo=reactquery&logoColor=black"></span> 리액트 쿼리
 <a href="https://github.com/anuraghazra/github-readme-stats">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fun1ty&layout=compact)](https://github.com/fun1ty/github-readme-stats)
 </a>
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/react-FFF?style=flat&logo=react&logoColor=black"></span>
 <span><img src="https://img.shields.io/badge/styledcomponents-FFF?style=flat&logo=styledcomponents&logoColor=black"></span>
 <span><img src="https://img.shields.io/badge/redux-FFF?style=flat&logo=redux&logoColor=black"></span>
-<span><img src="https://img.shields.io/badge/reactquery-FFF?style=flat&logo=reactquery&logoColor=black"></span>
+
 
 <h3>Back-End</h3>
 <span><img src="https://img.shields.io/badge/node.js-FFF?style=flat&logo=node.js&logoColor=black"></span>
