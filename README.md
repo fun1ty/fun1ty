@@ -34,42 +34,44 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2156F0&center=true&vCenter=true&width=800&height=300&lines=Hi+there%2C+I'm+MiRi" alt="Typing SVG" /></a><br>
 <h2>Technology Stacks🗽</h2>
 
-*※ 파란색은 주요 스택입니다.*
 <h3>Environment</h3> 
-<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-2156F0?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> 
-</span><span></span><span><img src="https://img.shields.io/badge/git-2156F0?style=for-the-badge&logo=git&logoColor=white"> 
-</span><span><img src="https://img.shields.io/badge/github-2156F0?style=for-the-badge&logo=github&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/visualstudiocode-FFF?style=flat&logo=visualstudiocode&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/git-FFF?style=flat&logo=git&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/github-FFF?style=flat&logo=github&logoColor=black"></span>
+
 <h3>Config</h3> 
-<span><img src="https://img.shields.io/badge/npm-2156F0?style=for-the-badge&logo=npm&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/npm-FFF?style=flat&logo=npm&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/vite-FFF?style=flat&logo=vite&logoColor=black"></span>
+
 <h3>Front-End</h3>
-<span><img src="https://img.shields.io/badge/next.js-2156F0?style=for-the-badge&logo=next.js&logoColor=white">
-  <span><img src="https://img.shields.io/badge/tailwindcss-2156F0?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</span><span><img src="https://img.shields.io/badge/react-2156F0?style=for-the-badge&logo=react&logoColor=white"></span> 
-<span><img src="https://img.shields.io/badge/styledcomponents-2156F0?style=for-the-badge&logo=styledcomponents&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/redux-2156F0?style=for-the-badge&logo=redux&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/next.js-FFF?style=flat&logo=next.js&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/tailwindcss-FFF?style=flat&logo=tailwindcss&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/react-FFF?style=flat&logo=react&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/styledcomponents-FFF?style=flat&logo=styledcomponents&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/redux-FFF?style=flat&logo=redux&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/reactquery-FFF?style=flat&logo=reactquery&logoColor=black"></span>
 
 <h3>Back-End</h3>
-<span><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/node.js-FFF?style=flat&logo=node.js&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/mysql-FFF?style=flat&logo=mysql&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/sequelize-FFF?style=flat&logo=sequelize&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/express-FFF?style=flat&logo=express&logoColor=black"></span>
 
 <h3>DevOps</h3>
-<span><img src="https://img.shields.io/badge/amazonec2-2156F0?style=for-the-badge&logo=amazonec2&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/amazonrds-black?style=for-the-badge&logo=amazonrds&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/amazons3-2156F0?style=for-the-badge&logo=amazons3&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/vercel-2156F0?style=for-the-badge&logo=vercel&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/amazonec2-FFF?style=flat&logo=amazonec2&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/amazonrds-FFF?style=flat&logo=amazonrds&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/amazons3-FFF?style=flat&logo=amazons3&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/vercel-FFF?style=flat&logo=vercel&logoColor=black"></span>
   
 <h3>Communication</h3>
-<span><img src="https://img.shields.io/badge/slack-black?style=for-the-badge&logo=slack&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/slack-FFF?style=flat&logo=slack&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/notion-FFF?style=flat&logo=notion&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/jira-FFF?style=flat&logo=jira&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/confluence-FFF?style=flat&logo=confluence&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/figma-FFF?style=flat&logo=figma&logoColor=black"></span>
 
 <h3>Data</h3>
-<span><img src="https://img.shields.io/badge/googleanalytics-black?style=for-the-badge&logo=slack&logoColor=white"> 
+<span><img src="https://img.shields.io/badge/googleanalytics-FFF?style=flat&logo=figma&logoColor=black"></span>
 <br/>
 <br/>
   
